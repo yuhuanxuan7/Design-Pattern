@@ -13,3 +13,9 @@ noun
 [uncountable] the different parts which sth is made of; the way in which the different parts are organized 成分；构成；组合方式
 the chemical composition of the soil土壤的化学成分
 the composition of the board of directors董事会的组成
+
+The Chapter 1 describe a "Strategy Pattern".
+**The Strategy Pattern** defines a family of algorithms, encapsulates each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
+
+策略模式正式定义:
+策略模式定义了算法族, 分别封装起来, 让它们之间可以互相替换, 此模式让算法的变化独立于使用算法的客户.
