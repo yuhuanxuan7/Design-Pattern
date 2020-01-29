@@ -14,6 +14,9 @@ public abstract class Duck {
         System.out.println("I can swim");
     }
 
+/* Make it abstract and override this method in the subclass;
+   抽象方法, 在子类中重载该方法, 避免重复的代码; 
+*/
     public abstract void display();
 
     public void performQuack(){
